@@ -1,0 +1,26 @@
+.menuBar {
+    border-radius: 0% !important;
+}
+
+.ratingDropDown{
+    margin-left: 10px;
+}
+
+.webName {
+    margin-top: 20px;
+    color: #f7f7f7;
+}
+
+.genreMenu {
+    width:200px !important;
+}
+
+.ratingMenu {
+    width:50px;
+}
+
+@media only screen and (max-width: 480px) {
+    .genreMenu {
+        width:120px !important;
+    }
+  }

@@ -1,0 +1,20 @@
+.title {
+    color: #f7f7f7;
+    margin-top: 10px;
+    margin-bottom: 20px !important;
+}
+
+.genre {
+    margin-top: 10px !important;
+    color: #dbdbdb;   
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.rating {
+    color: #dbdbdb;
+    margin-top: 10px !important;
+    font-weight: 500;
+    font-size: 13px;
+}
+
